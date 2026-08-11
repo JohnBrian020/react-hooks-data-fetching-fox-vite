@@ -25,5 +25,17 @@
     "eslint-plugin-react-refresh": "^0.4.18",
     "globals": "^15.14.0",
     "vite": "^6.1.0"
-  }
+  },
+  "description": "In this lesson, we’re going to go through how to fetch data from an API and render that data to the page in a React application. We are going to fetch the data asynchronously when the page first loads and also discuss how to load data based on an event. We will walk through some best practices in the meantime - including adding a user-friendly loading message and following a git workflow.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnBrian020/react-hooks-data-fetching-fox-vite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnBrian020/react-hooks-data-fetching-fox-vite/issues"
+  },
+  "homepage": "https://github.com/JohnBrian020/react-hooks-data-fetching-fox-vite#readme"
 }
